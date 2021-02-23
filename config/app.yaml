@@ -1,0 +1,17 @@
+# 应用名称
+appCode: DUBHE
+
+# 基础路径
+baseURI: "/"
+
+# apiPrefix
+apiPrefix: '/api'
+
+# 后端 Java 服务接口地址
+backendMap:
+  development: http://10.5.19.121:8000
+
+server:
+  port: 3000
+  devPort: 9005
+  debugPort: 9229
